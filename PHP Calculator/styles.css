@@ -1,0 +1,17 @@
+body {
+    font-family: Open-sans;
+}
+
+h3 {
+    font-size: 25px;
+    text-align: center;
+}
+
+form {
+    line-spacing: 20px;
+}
+
+button {
+    width: 25%;
+    font-weight: bolder;
+}
